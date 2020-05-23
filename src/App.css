@@ -28,6 +28,21 @@
   color: #61dafb;
 }
 
+.float{
+	position:fixed;
+	width:60px;
+  height:60px;
+	background-color: rgb(27,106,234);
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+	box-shadow: 2px 2px 3px #999;
+}
+
+.my-float{
+	margin-top:22px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
